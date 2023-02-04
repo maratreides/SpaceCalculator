@@ -48,7 +48,7 @@ int main() {
          std::cout << "Your new weight is "  << weight << "kg." << std::endl;
   break;
   case 6 :
-        std::cout << "You have selected urANUS." << std::endl;
+        std::cout << "You have selected Uranus." << std::endl;
         weight *= 0.92;
          std::cout << "Your new weight is "  << weight << "kg." << std::endl;
   break;
